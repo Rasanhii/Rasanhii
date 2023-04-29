@@ -1,6 +1,6 @@
 ### Oi bem-vindo ao meu perfil 👋
 
-- 🔭 Buscando emprego
+- 🔭 Buscando emprego.
 - 🌱 Estudando: Python
 - 📫 Me contate no email: jonataspereira788@gmail.com
 - 😄 Pronouns: ele/dele
