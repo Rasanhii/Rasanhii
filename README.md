@@ -16,4 +16,4 @@
 
 ## &nbsp;Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/Rasanhii=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Rasanhii)](https://git.io/streak-stats)
