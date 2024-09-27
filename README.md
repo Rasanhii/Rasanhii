@@ -15,6 +15,6 @@
   <img align="center" alt="Jol-Laravel" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg">
 </div>
 
-## &nbsp;Stats
+## &nbsp;Status
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Rasanhii&theme=rose&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=550&fire=EB5454)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rasanhii&theme=omni&locale=pt_BR&date_format=j%20M%5B%20Y%5D&currStreakNum=E973D3&stroke=EBA8D844&sideLabels=E973D3&currStreakLabel=E973D3)](https://git.io/streak-stats)
