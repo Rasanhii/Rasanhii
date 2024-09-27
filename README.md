@@ -1,4 +1,4 @@
-## 📊 &nbsp;Oi bem-vindo ao meu perfil 👋
+## &nbsp;Oi bem-vindo ao meu perfil 👋
 
 - 🔭 Buscando emprego
 - 🌱 Estudando: React
@@ -14,6 +14,6 @@
 
 </div
 
-## 📊 &nbsp;Stats
+## &nbsp;Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/rasanhii=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/Rasanhii=DenverCoder1)](https://git.io/streak-stats)
