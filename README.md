@@ -1,4 +1,4 @@
-### Oi bem-vindo ao meu perfil 👋
+## 📊 &nbsp;Oi bem-vindo ao meu perfil 👋
 
 - 🔭 Buscando emprego
 - 🌱 Estudando: React
@@ -14,3 +14,6 @@
 
 </div
 
+## 📊 &nbsp;Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
