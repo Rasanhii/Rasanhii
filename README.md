@@ -4,6 +4,8 @@
 - 🌱 Estudando: React
 - 📫 Me contate no email: jonataspereira788@gmail.com
 
+## &nbsp;Tecnologias
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Jol-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Jol-Vite" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vitejs/vitejs-original.svg">
