@@ -15,6 +15,12 @@
   <img align="center" alt="Jol-Laravel" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg">
 </div>
 
+## &nbsp;Badges
+<div style="display: inline_block"><br>
+  <img align="center" alt="Cybersecurity-Essentials" height="50" width="60" src="assets/cybersecurity-essentials.png">
+  <img align="center" alt="aws-academy-cloud-foundations" height="50" width="60" src="assets/aws-academy-graduate-aws-academy-cloud-foundations.png">
+</div>
+
 ## &nbsp;Status
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Rasanhii&theme=omni&locale=pt_BR&date_format=j%20M%5B%20Y%5D&currStreakNum=E973D3&stroke=EBA8D844&sideLabels=E973D3&currStreakLabel=E973D3)](https://git.io/streak-stats)
