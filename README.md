@@ -17,9 +17,13 @@
 
 ## &nbsp;Badges
 <div style="display: inline_block"><br>
-  <a href="https://www.credly.com/badges/7d1daa46-7fa8-4944-9eb8-a54c96ec3ca0/public_url" target="_blank">
+  <a href="https://www.credly.com/badges/7d1daa46-7fa8-4944-9eb8-a54c96ec3ca0/public_url">
     <img align="center" alt="Cybersecurity-Essentials" height="120" width="120" src="assets/cybersecurity-essentials.png">
   </a>
+  <a href="https://www.credly.com/badges/7d1daa46-7fa8-4944-9eb8-a54c96ec3ca0/public_url">
+    <img align="center" alt="Cybersecurity-Essentials" height="120" width="120" src="assets/cybersecurity-essentials.png">
+  </a>
+  
   <img align="center" alt="aws-academy-cloud-foundations" height="120" width="120" src="assets/aws-academy-graduate-aws-academy-cloud-foundations.png">
 </div>
  
