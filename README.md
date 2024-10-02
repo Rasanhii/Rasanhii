@@ -20,11 +20,13 @@
   <a href="https://www.credly.com/badges/7d1daa46-7fa8-4944-9eb8-a54c96ec3ca0/public_url">
     <img align="center" alt="Cybersecurity-Essentials" height="120" width="120" src="assets/cybersecurity-essentials.png">
   </a>
-  <a href="https://www.credly.com/badges/7d1daa46-7fa8-4944-9eb8-a54c96ec3ca0/public_url">
+  <a href="https://www.credly.com/badges/cfe16b39-5bd7-44ce-a3fb-73ba97ad8153/public_url">
     <img align="center" alt="Cybersecurity-Essentials" height="120" width="120" src="assets/cybersecurity-essentials.png">
   </a>
-  
-  <img align="center" alt="aws-academy-cloud-foundations" height="120" width="120" src="assets/aws-academy-graduate-aws-academy-cloud-foundations.png">
+
+  <a href="https://www.credly.com/badges/cfe16b39-5bd7-44ce-a3fb-73ba97ad8153/public_url">
+    <img align="center" alt="aws-academy-cloud-foundations" height="120" width="120" src="assets/aws-academy-graduate-aws-academy-cloud-foundations.png">
+  </a>
 </div>
  
 ## &nbsp;Status
