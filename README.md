@@ -17,8 +17,8 @@
 
 ## &nbsp;Badges
 <div style="display: inline_block"><br>
-  <img align="center" alt="Cybersecurity-Essentials" height="50" width="60" src="assets/cybersecurity-essentials.png">
-  <img align="center" alt="aws-academy-cloud-foundations" height="50" width="60" src="assets/aws-academy-graduate-aws-academy-cloud-foundations.png">
+  <img align="center" alt="Cybersecurity-Essentials" height="150" width="150" src="assets/cybersecurity-essentials.png">
+  <img align="center" alt="aws-academy-cloud-foundations" height="150" width="150" src="assets/aws-academy-graduate-aws-academy-cloud-foundations.png">
 </div>
 
 ## &nbsp;Status
