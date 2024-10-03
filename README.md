@@ -25,6 +25,8 @@
   <a href="https://www.credly.com/badges/58e5923b-0b42-470e-b796-813a42ba1df7/public_url">
     <img align="center" alt="Cybersecurity-Essentials" height="155" width="155" src="https://github.com/user-attachments/assets/3f9f4742-a2e7-4c2c-8e29-6a735c4e5dda">
   </a>
+
+  <br>
   <a href="https://www.credly.com/badges/cfe16b39-5bd7-44ce-a3fb-73ba97ad8153/public_url">
     <img align="center" alt="aws-academy-cloud-foundations" height="155" width="155" src="assets/aws-academy-graduate-aws-academy-cloud-foundations.png">
   </a>
