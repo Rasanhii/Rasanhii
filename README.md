@@ -1,6 +1,5 @@
-## &nbsp;Oi bem-vindo ao meu perfil 👋
+## &nbsp;Um salve a todos os navegantes da internet! 👋
 
-- 🔭 Buscando emprego
 - 🌱 Estudando: React
 - 📫 Me contate no email: jonataspereira788@gmail.com
 
