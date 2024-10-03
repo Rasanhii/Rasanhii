@@ -6,28 +6,27 @@
 ## &nbsp;Tecnologias
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Jol-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Jol-Vite" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vitejs/vitejs-original.svg">
-  <img align="center" alt="Jol-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jol-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Jol-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Jol-Laravel" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg">
+  <img align="center" alt="Jol-React" height="90" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Jol-Vite" height="90" width="100" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vitejs/vitejs-original.svg">
+  <img align="center" alt="Jol-Js" height="90" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Jol-Python" height="90" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Jol-Csharp" height="90" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Jol-Laravel" height="90" width="100" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg">
 </div>
 
 ## &nbsp;Badges
 <div style="display: inline_block"><br>
   <a href="https://www.credly.com/badges/7d1daa46-7fa8-4944-9eb8-a54c96ec3ca0/public_url">
-    <img align="center" alt="Cybersecurity-Essentials" height="120" width="120" src="assets/cybersecurity-essentials.png">
+    <img align="center" alt="Cybersecurity-Essentials" height="155" width="155" src="assets/cybersecurity-essentials.png">
   </a>
   <a href="https://www.credly.com/badges/bc523b44-cdeb-45cd-b032-740e4707ad9a/public_url">
-    <img align="center" alt="Cybersecurity-Essentials" height="120" width="120" src="https://github.com/user-attachments/assets/6316245c-f764-4e49-bca3-288e360b6fed">
+    <img align="center" alt="Cybersecurity-Essentials" height="155" width="155" src="https://github.com/user-attachments/assets/6316245c-f764-4e49-bca3-288e360b6fed">
   </a>
   <a href="https://www.credly.com/badges/58e5923b-0b42-470e-b796-813a42ba1df7/public_url">
-    <img align="center" alt="Cybersecurity-Essentials" height="120" width="120" src="https://github.com/user-attachments/assets/3f9f4742-a2e7-4c2c-8e29-6a735c4e5dda">
+    <img align="center" alt="Cybersecurity-Essentials" height="155" width="155" src="https://github.com/user-attachments/assets/3f9f4742-a2e7-4c2c-8e29-6a735c4e5dda">
   </a>
-
   <a href="https://www.credly.com/badges/cfe16b39-5bd7-44ce-a3fb-73ba97ad8153/public_url">
-    <img align="center" alt="aws-academy-cloud-foundations" height="120" width="120" src="assets/aws-academy-graduate-aws-academy-cloud-foundations.png">
+    <img align="center" alt="aws-academy-cloud-foundations" height="155" width="155" src="assets/aws-academy-graduate-aws-academy-cloud-foundations.png">
   </a>
 </div>
  
