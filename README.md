@@ -19,6 +19,9 @@
   <a href="https://www.credly.com/badges/7d1daa46-7fa8-4944-9eb8-a54c96ec3ca0/public_url">
     <img align="center" alt="Cybersecurity-Essentials" height="155" width="155" src="assets/cybersecurity-essentials.png">
   </a>
+  <a href="https://www.credly.com/badges/5688e4db-c674-4abc-aef4-63ed91ff8c66/public_url">
+    <img align="center" alt="Cybersecurity-Essentials" height="155" width="155" src="https://github.com/user-attachments/assets/0a3b497a-b1b7-451d-bbbf-ce61989d4f9f">
+  </a>
   <a href="https://www.credly.com/badges/bc523b44-cdeb-45cd-b032-740e4707ad9a/public_url">
     <img align="center" alt="Cybersecurity-Essentials" height="155" width="155" src="https://github.com/user-attachments/assets/6316245c-f764-4e49-bca3-288e360b6fed">
   </a>
