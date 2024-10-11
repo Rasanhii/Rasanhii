@@ -1,7 +1,7 @@
 ## &nbsp;Um salve a todos os navegantes da internet! 👋
 
-- 🌱 Estudando: React
-- 📫 Me contate no email: jonataspereira788@gmail.com
+-  Estudando: React
+-  Me contate no email: jonataspereira788@gmail.com
 
 ## &nbsp;Tecnologias
 
