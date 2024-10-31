@@ -34,6 +34,12 @@
     <img align="center" alt="aws-academy-cloud-foundations" height="155" width="155" src="assets/aws-academy-graduate-aws-academy-cloud-foundations.png">
   </a>
 </div>
+
+  <br>
+  <a href="https://www.credly.com/badges/cfe16b39-5bd7-44ce-a3fb-73ba97ad8153/public_url">
+    <img align="center" alt="aws-academy-cloud-foundations" height="155" width="155" src="assets/aws-academy-graduate-aws-academy-cloud-foundations.png">
+  </a>
+</div>
  
 ## &nbsp;Status
 
