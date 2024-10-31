@@ -35,6 +35,7 @@
     <img align="center" alt="aws-academy-cloud-foundations" height="155" width="155" src="assets/aws-academy-graduate-aws-academy-cloud-foundations.png">
   </a>
 </div>
+
  
 ## &nbsp;Status
 
