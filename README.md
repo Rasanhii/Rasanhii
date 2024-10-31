@@ -12,6 +12,7 @@
   <img align="center" alt="Jol-Python" height="90" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jol-Csharp" height="90" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Jol-Laravel" height="90" width="100" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg">
+  <img align="center" alt="Jol-Java" height="90" width="100" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg">
 </div>
 
 ## &nbsp;Badges
