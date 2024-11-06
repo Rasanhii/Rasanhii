@@ -39,5 +39,5 @@
  
 ## &nbsp;Status
 
-| [![GitHub Streak](https://streak-stats.demolab.com?user=Rasanhii&theme=omni&exclude_days=Sun%2CSat&locale=pt_BR&date_format=j%20M%5B%20Y%5D&currStreakNum=E973D3&stroke=EBA8D844&sideLabels=E973D3&currStreakLabel=E973D3)](https://git.io/streak-stats) | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rasanhii&theme=omni&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats) |
+| [![GitHub Streak](https://streak-stats.demolab.com?user=Rasanhii&theme=omni&exclude_days=Sun%2CSat&locale=pt_BR&date_format=j%20M%5B%20Y%5D&currStreakNum=E973D3&stroke=EBA8D844&sideLabels=E973D3&currStreakLabel=E973D3)](https://git.io/streak-stats)  | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rasanhii&theme=omni&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats) |
 |----------- | ----------- |
